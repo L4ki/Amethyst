@@ -38,9 +38,9 @@
      inkscape:current-layer="svg2"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="107.37829"
-     inkscape:cx="110.25002"
-     inkscape:zoom="2.0000001"
+     inkscape:cy="-154.39183"
+     inkscape:cx="117.84899"
+     inkscape:zoom="0.73144535"
      id="base"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -254,7 +254,8 @@
        fx="107"
        fy="355"
        r="93.375"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.2842242,-2.3098923)" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -314,7 +315,7 @@
       <path
          inkscape:connector-curvature="0"
          style="opacity:0.5;fill:url(#radialGradient971);fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.62745098"
-         d="m 199,355 a 92,92 0 0 1 -92,92 92,92 0 0 1 -92,-92 92,92 0 0 1 92,-92 92,92 0 0 1 92,92 z"
+         d="m 197.71578,352.69011 a 92,92 0 0 1 -92,92 92,92 0 0 1 -92.000004,-92 92,92 0 0 1 92.000004,-92 92,92 0 0 1 92,92 z"
          id="path4369" />
     </g>
     <g
@@ -328,21 +329,21 @@
         <path
            inkscape:connector-curvature="0"
            d="m 1090.3075,537.57714 4.0274,-2.3252 1.3545,2.34607 -4.0274,2.3252 z m -149.43492,86.2763 4.0273,-2.32515 1.3545,2.34607 -4.0273,2.32515 z"
-           style="fill:#141414;fill-opacity:1;stroke:none"
+           style="fill:#9d71cf;fill-opacity:1;stroke:none"
            id="path6063-1" />
         <path
            id="path6065-2"
-           style="fill:#141414;fill-opacity:1;stroke:none"
+           style="fill:#9d71cf;fill-opacity:1;stroke:none"
            d="m 1059.0835,507.3447 2.3252,-4.02738 2.3461,1.35451 -2.3252,4.02738 z m -86.27632,149.43492 2.3252,-4.02729 2.3461,1.35451 -2.3252,4.02729 z"
            inkscape:connector-curvature="0" />
         <path
            inkscape:connector-curvature="0"
            d="m 944.89998,539.92325 -4.0274,-2.32521 1.3545,-2.34608 4.0274,2.3252 z m 149.43492,86.27629 -4.0273,-2.3252 1.3545,-2.34614 4.0273,2.32526 z"
-           style="fill:#141414;fill-opacity:1;stroke:none"
+           style="fill:#9d71cf;fill-opacity:1;stroke:none"
            id="path6067-3" />
         <path
            id="path6069-4"
-           style="fill:#141414;fill-opacity:1;stroke:none"
+           style="fill:#9d71cf;fill-opacity:1;stroke:none"
            d="m 975.13238,508.69925 -2.3252,-4.02739 2.3461,-1.35452 2.3252,4.02738 z m 86.27632,149.43491 -2.3251,-4.02733 2.3461,-1.35457 2.3251,4.02738 z"
            inkscape:connector-curvature="0" />
       </g>
@@ -403,7 +404,7 @@
         <path
            id="path4435"
            d="m 23.7344,257.46285 -0.5,0.875 3.6876,2.125 c 0.1656,-0.2917 0.3309,-0.58548 0.5,-0.875 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.01000001;fill:#141414;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.01000001;fill:#783cb4;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
            inkscape:connector-curvature="0" />
         <path
            id="path4433"
@@ -493,7 +494,7 @@
         <path
            id="path4399"
            d="m 27.047,343.99405 -3.8126,2.1875 0.5,0.875 3.8126,-2.1875 c -0.1699,-0.28898 -0.3335,-0.58384 -0.5,-0.875 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.01000001;fill:#141414;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#9d71cf;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
            inkscape:connector-curvature="0" />
         <path
            id="path4397"
@@ -645,12 +646,12 @@
              height="2.7090182"
              width="20"
              id="rect5442"
-             style="fill:#643296;fill-opacity:1;stroke:none"
+             style="fill:#a071cf;fill-opacity:1;stroke:none"
              inkscape:export-filename="C:\Users\andrewl\Downloads\silly clock.png"
              inkscape:export-xdpi="90"
              inkscape:export-ydpi="90" />
           <rect
-             style="fill:#643b8d;fill-opacity:1;stroke:none"
+             style="fill:#a071cf;fill-opacity:1;stroke:none"
              id="rect5446"
              width="20"
              height="2.7090182"
@@ -670,12 +671,12 @@
              height="2.7090182"
              width="20"
              id="rect5442-0"
-             style="fill:#643890;fill-opacity:1;stroke:none"
+             style="fill:#a071cf;fill-opacity:1;stroke:none"
              inkscape:export-filename="C:\Users\andrewl\Downloads\silly clock.png"
              inkscape:export-xdpi="90"
              inkscape:export-ydpi="90" />
           <rect
-             style="fill:#643395;fill-opacity:1;stroke:none"
+             style="fill:#a071cf;fill-opacity:1;stroke:none"
              id="rect5446-4"
              width="20"
              height="2.7090182"
@@ -729,7 +730,7 @@
        inkscape:connector-curvature="0"
        id="SecondHand-9"
        d="m 484.75,100.00395 c 0,-2.61096 -2.1274,-4.72897 -4.75,-4.72897 -2.62257,0 -4.75,2.11801 -4.75,4.72897 0,1.8712 1.09997,3.48226 2.68479,4.24923 0.008,0.004 -0.008,0.0641 0,0.0685 L 480,183.275 l 1.65217,-78.81624 c 1.81091,-0.66751 3.09783,-2.42062 3.09783,-4.45473 z"
-       style="fill:#9966cc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;opacity:0.05" />
+       style="fill:#9966cc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;opacity:0.8" />
   </g>
   <g
      id="HourHandShadow"
@@ -825,8 +826,8 @@
      style="opacity:0.2;fill:#9966cc;fill-opacity:1;stroke:none"
      id="Glass"
      inkscape:label="#Glass"
-     cx="110.99998"
-     cy="106.5"
+     cx="109.56614"
+     cy="109.801"
      r="97" />
   <rect
      style="opacity:0.875;fill:#9966cc;fill-opacity:1;stroke:none"
