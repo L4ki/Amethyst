@@ -12,3 +12,8 @@ Changelog: 23.09.2019.
 ----------------------
 
 Modified widget: clock.svg
+
+Changelog: 09.10.2019.
+---------------------
+
+Corrected icon: media.svg
