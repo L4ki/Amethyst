@@ -17,3 +17,8 @@ Changelog: 09.10.2019.
 ---------------------
 
 Corrected icon: media.svg
+
+Changelog: 22.10.2019.
+----------------------
+
+Added widgets: listitem.svg, action-overlays.svg
