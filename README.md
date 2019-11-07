@@ -22,3 +22,16 @@ Changelog: 22.10.2019.
 ----------------------
 
 Added widgets: listitem.svg, action-overlays.svg
+
+Changelog: 07.11.2019.
+---------------------
+
+Modified icon: system.svg, notification.svg
+
+Icon added: preferences.svg
+
+Modified widget: slider.svg, clock.svg, bar_meter_horizontal.svg, bar_meter_vertical.svg, button.svg, scrollbar.svg
+
+Added widget: checkmarks.svg
+
+Corrected colors file
