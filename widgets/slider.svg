@@ -568,13 +568,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
-     inkscape:cx="35.323311"
+     inkscape:cx="3.5918939"
      inkscape:cy="36.207352"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1033"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -636,7 +636,7 @@
          height="59"
          width="2"
          id="rect4723"
-         style="fill:#0c0c0c;fill-opacity:1;stroke:none" />
+         style="fill:#191919;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="g4741"
@@ -755,7 +755,7 @@
          id="path4171"
          sodipodi:nodetypes="csccscc" />
       <rect
-         style="fill:#0c0c0c;fill-opacity:1;stroke:none"
+         style="fill:#191919;fill-opacity:1;stroke:none"
          id="rect4173"
          width="2"
          height="59"

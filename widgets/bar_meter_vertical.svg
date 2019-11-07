@@ -36,12 +36,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1033"
      id="namedview25"
      showgrid="false"
      inkscape:zoom="8"
-     inkscape:cx="-2.752284"
+     inkscape:cx="-25.189784"
      inkscape:cy="27.119512"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -100,39 +100,39 @@
   <path
      id="bar-active-bottomright"
      d="m 14,26 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#512193;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#3f1a73;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-right"
      d="m 14,24 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#512193;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#3f1a73;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-topright"
      d="m 14,22 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#512193;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#3f1a73;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-bottomleft"
      d="m 10,26 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#512193;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#3f1a73;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-left"
      d="m 10,24 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#512193;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#3f1a73;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-topleft"
      d="m 11,22 -1,0 0,1 1,0 z"
-     style="opacity:1;fill:#512193;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#3f1a73;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-bottom"
      d="m 12,26 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#512193;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#3f1a73;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-center"
      d="m 13,24 -1,0 0,1 1,0 0,-1 z"
-     style="opacity:1;fill:#512193;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#3f1a73;fill-opacity:1;stroke:none" />
   <path
      id="bar-active-top"
      d="m 12,22 0,1 1,0 0,-1 -1,0 z"
-     style="opacity:1;fill:#512193;fill-opacity:1;stroke:none" />
+     style="opacity:1;fill:#3f1a73;fill-opacity:1;stroke:none" />
   <rect
      id="hint-stretch-borders"
      width="1"
