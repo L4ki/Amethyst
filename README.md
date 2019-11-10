@@ -1,6 +1,11 @@
 # Amethyst
 Plasma Theme
 
+Screenshot:
+-----------
+
+https://store.kde.org/p/1322963/
+
 Changelog: 13.09.2019.
 ----------------------
 
