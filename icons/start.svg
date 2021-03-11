@@ -8,48 +8,70 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="0.94488192"
-   height="0.86614174"
-   viewBox="0 0 0.94488192 0.86614174"
+   id="svg12"
+   width="32"
+   height="32"
    version="1.1"
-   id="svg4"
    sodipodi:docname="start.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <g
+     id="start-here-kde">
+    <rect
+       id="rect7"
+       style="opacity:0.00100002"
+       width="32"
+       height="32"
+       x="0"
+       y="0" />
+    <path
+       d="m 10.531264,12.454546 h 10.90228 L 15.981823,29 Z m 0.723281,-2.363636 h 9.454548 l -4.72727,-6.302646 z m 12.409098,0 h 6.500001 L 23.072736,3 h -4.72728 z M 8.3,10.09091 13.618177,3 h -4.628 L 1.8,10.09091 Z M 1.8,12.454546 12.712907,26.636364 8.038823,12.454546 Z m 22.124823,0 -4.637467,14.181818 10.876288,-14.181818 z"
+       id="path2-3-5"
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient842);fill-opacity:1;stroke-width:1.18176" />
+  </g>
   <metadata
-     id="metadata10">
+     id="metadata19">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8">
+     id="defs17">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient820">
+       id="linearGradient840">
       <stop
          style="stop-color:#9f70d0;stop-opacity:1"
          offset="0"
-         id="stop816" />
+         id="stop836" />
       <stop
-         style="stop-color:#800080;stop-opacity:0.306"
+         style="stop-color:#800080;stop-opacity:0.30588236"
          offset="1"
-         id="stop818" />
+         id="stop838" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient820"
-       id="linearGradient822"
-       x1="12"
-       y1="1.6670001"
-       x2="12"
-       y2="23"
+       xlink:href="#linearGradient840"
+       id="linearGradient842"
+       x1="16"
+       y1="3"
+       x2="16"
+       y2="29"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient840"
+       id="linearGradient852"
+       gradientUnits="userSpaceOnUse"
+       x1="11"
+       y1="2"
+       x2="11"
+       y2="19" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -60,24 +82,39 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
-     id="namedview6"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview15"
      showgrid="false"
-     inkscape:zoom="256"
-     inkscape:cx="0.64238197"
-     inkscape:cy="0.14909547"
+     inkscape:zoom="7.1363635"
+     inkscape:cx="26.886173"
+     inkscape:cy="4.3518104"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg12"
+     inkscape:document-rotation="0"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1030"
+       originx="-22"
+       originy="10" />
+  </sodipodi:namedview>
   <g
-     id="start-here-kde"
-     transform="matrix(0.03937008,0,0,0.03937008,0,-0.03937008)">
+     id="22-22-start-here-kde"
+     transform="translate(-22,10)">
+    <rect
+       id="rect2"
+       style="opacity:0.00100002"
+       width="22"
+       height="22"
+       x="0"
+       y="0" />
     <path
-       d="m 7.388,9 h 9.225 L 12,23 Z M 8,7 h 8 L 12,1.667 Z M 18.5,7 H 24 L 18,1 H 14 Z M 5.5,7 10,1 H 6.084 L 0,7 Z M 0,9 9.234,21 5.279,9 Z M 18.721,9 14.797,21 24,9 Z"
-       id="path2"
+       d="m 7.244727,8.545455 h 7.547727 L 11.018182,20 Z M 7.745455,6.909091 h 6.545454 L 11.018182,2.545727 Z m 8.590908,0 h 4.500001 L 15.927273,2 H 12.654546 Z M 5.7,6.909091 9.381818,2 h -3.204 L 1.2,6.909091 Z M 1.2,8.545455 8.755091,18.363636 5.519182,8.545455 Z m 15.317182,0 -3.210546,9.818181 7.529728,-9.818181 z"
+       id="path2-3"
        inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient822);fill-opacity:1" />
+       style="fill:url(#linearGradient852);fill-opacity:1.0;stroke-width:0.818181" />
   </g>
 </svg>
