@@ -39,3 +39,8 @@ Modified widget: slider.svg, clock.svg, bar_meter_horizontal.svg, bar_meter_vert
 Added widget: checkmarks.svg
 
 Corrected colors file
+
+Changelog: 11.03.2021.
+----------------------
+
+Redesigned theme
